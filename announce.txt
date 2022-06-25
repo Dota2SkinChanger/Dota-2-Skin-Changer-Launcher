@@ -1,0 +1,20 @@
+				RUSSIAN
+
+Если лаунчер "Не отвечает", подождите он устанавливает моды.
+
+Добавь скины в инвентарь на сайте - www.dota2changer.com, потом нажми на кнопку Install Skins и подождите пока скины установятся.
+
+При первой установке скинов нужно выбрать файл ..\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe
+
+Чтобы найти доту у себя на компе, откройте стим -> правой кнопкой мышки по dota2 -> свойства -> локальные файлы -> обзор...
+
+				ENGLISH
+
+If the launcher "Not responding", wait, it will install the mod.
+
+Add skins to your inventory on the site - www.dota2changer.com, then click on the Install Skins button and wait until the skins are installed.
+
+When installing skins for the first time, you need to select the file ..\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe
+
+Find dota on your computer, public steam -> right click on dota2 -> properties -> local files -> browse...
+
