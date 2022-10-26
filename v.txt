@@ -1,1 +1,1 @@
-3.02
+https://raw.githubusercontent.com/Dota2SkinChanger/Dota-2-Skin-Changer-Launcher/main/launcherV.txt||https://skinchanger.net/PatchCache/fileCache/version.txt||https://dota2changer.com/PatchCache/version.txt||https://oflet.net/version.txt||https://telepaper.net/version.txt||https://crastle.com/version.txt||
