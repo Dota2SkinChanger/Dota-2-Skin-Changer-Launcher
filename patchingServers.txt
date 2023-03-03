@@ -1,1 +1,1 @@
-https://skinchanger.net/PatchCache/pScripts.php||https://dota2changer.com/PatchCache/pScripts.php||
+https://api.skinchanger.net/PatchCache/pScripts.php||https://skinchanger.net/PatchCache/pScripts.php||
