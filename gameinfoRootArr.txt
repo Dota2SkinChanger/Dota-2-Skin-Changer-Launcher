@@ -1,1 +1,1 @@
-https://skinchanger.net/PatchCache/fileCache/gameinfo_branchspecific.gi||https://raw.githubusercontent.com/Dota2SkinChanger/Dota-2-Skin-Changer-Launcher/main/gameinfo_branchspecific.gi||
+https://skinchanger.net/PatchCache/fileCache/gameinfo.gi||https://raw.githubusercontent.com/Dota2SkinChanger/Dota-2-Skin-Changer-Launcher/main/gameinfo.gi||
