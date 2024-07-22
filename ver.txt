@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Dota2SkinChanger/Dota-2-Skin-Changer-Launcher/main/verL.txt||https://skinchanger.net/PatchCache/fileCache/ver.txt||https://dota2changer.com/PatchCache/ver.txt||
+https://skinchanger.net/PatchCache/fileCache/ver.txt||https://raw.githubusercontent.com/Dota2SkinChanger/Dota-2-Skin-Changer-Launcher/main/verL.txt||https://dota2changer.com/PatchCache/ver.txt||
