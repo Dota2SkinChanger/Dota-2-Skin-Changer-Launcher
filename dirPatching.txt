@@ -1,1 +1,1 @@
-http://skinchanger.net/PatchCache/PatchingScripts.php
+http://skinchanger.net/PatchCache/PatchingScripts.php||http://ru.skinchanger.net/PatchCache/PatchingScripts.php
